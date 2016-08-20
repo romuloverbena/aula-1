@@ -1,8 +1,12 @@
+<?php
+  $variavel = "Hello World!";
+  define("CONSTANTE", "abc");
+?>
+<!DOCTYPE html>
 <html>
-  <head>
-    <title> Aula 1 </title>
-  </head>
-  <body>
-    Hello World!
-  </body>
-</hmtl>
+  <?php
+    include "header.php";
+    include "body.php";
+  ?>
+
+</html>
