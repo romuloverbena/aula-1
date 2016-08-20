@@ -1,0 +1,12 @@
+{
+    "name": "aluno/aula-1",
+    "description": "Projeto para fins academicos",
+    "authors": [
+        {
+            "name": "Romulo Verbena",
+            "email": "romuloverbena2014@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
